@@ -1,0 +1,22 @@
+INFO 2025-07-25 03:05:44,898 autoreload 27167 124140892157760 Watching for file changes with StatReloader
+WARNING 2025-07-25 03:05:57,497 log 27167 124140825605824 Not Found: /
+WARNING 2025-07-25 03:05:57,498 basehttp 27167 124140825605824 "GET / HTTP/1.1" 404 2685
+WARNING 2025-07-25 03:05:57,872 log 27167 124140816164544 Not Found: /favicon.ico
+WARNING 2025-07-25 03:05:57,873 basehttp 27167 124140816164544 "GET /favicon.ico HTTP/1.1" 404 2736
+INFO 2025-07-25 03:06:10,771 basehttp 27167 124140807771840 "GET /swagger HTTP/1.1" 301 0
+INFO 2025-07-25 03:06:12,413 basehttp 27167 124140816164544 "GET /swagger/ HTTP/1.1" 200 2162
+INFO 2025-07-25 03:06:13,673 basehttp 27167 124140825605824 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+INFO 2025-07-25 03:06:13,843 basehttp 27167 124140816164544 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+INFO 2025-07-25 03:06:13,946 basehttp 27167 124140807771840 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 14964
+INFO 2025-07-25 03:06:14,032 basehttp 27167 124140585477824 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+INFO 2025-07-25 03:06:14,038 basehttp 27167 124140593870528 "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+INFO 2025-07-25 03:06:14,046 basehttp 27167 124140568692416 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+INFO 2025-07-25 03:06:14,048 basehttp 27167 124140577085120 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+INFO 2025-07-25 03:06:16,281 basehttp 27167 124140577085120 "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+INFO 2025-07-25 03:06:17,316 basehttp 27167 124140807771840 "GET /swagger/?format=openapi HTTP/1.1" 200 19291
+INFO 2025-07-25 03:17:29,830 autoreload 27167 124140892157760 /workspaces/daffodilWallet/wallet/views.py changed, reloading.
+INFO 2025-07-25 03:17:31,260 autoreload 32138 125592691005248 Watching for file changes with StatReloader
+INFO 2025-07-25 03:17:57,070 autoreload 32138 125592691005248 /workspaces/daffodilWallet/wallet/views.py changed, reloading.
+INFO 2025-07-25 03:17:57,523 autoreload 32361 134654702823232 Watching for file changes with StatReloader
+INFO 2025-07-25 03:21:59,993 autoreload 32361 134654702823232 /workspaces/daffodilWallet/wallet/views.py changed, reloading.
+INFO 2025-07-25 03:22:00,457 autoreload 34104 125400032126784 Watching for file changes with StatReloader
